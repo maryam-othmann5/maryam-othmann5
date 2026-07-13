@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @maryam-othmann5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, I'm Maryam 👋
 
-<!---
-maryam-othmann5/maryam-othmann5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I focus on Machine Learning and AI-driven applications, with a strong 
+interest in building intelligent, well-tested software. My work spans conversational 
+AI, data analysis, and neural network experimentation.
+
+I value clean code, thorough testing (TDD/BDD), and continuous learning — always 
+exploring new tools and approaches when they solve a real problem.
+
+
+![Overview](./output/overview.svg)
+![Languages](./output/languages.svg)
