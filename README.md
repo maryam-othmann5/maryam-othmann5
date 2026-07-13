@@ -14,5 +14,5 @@ exploring new tools and approaches when they solve a real problem.
 
 ---
 
-![Overview](./output/overview.svg/go&theme=dark)
+![Overview](./output/overview.svg)
 ![Languages](./output/languages.svg)
